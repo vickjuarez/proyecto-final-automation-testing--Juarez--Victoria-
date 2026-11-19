@@ -1,0 +1,25 @@
+2026-11-19 09:07:00 [INFO] --- INICIO de la prueba: test_add_product_to_cart ---
+2026-11-19 09:07:10 [INFO] Navegador abierto y dirigido a https://www.saucedemo.com
+2026-11-19 09:07:10 [INFO] Prueba 'test_add_product_to_cart' finalizada con ÉXITO.
+2026-11-19 09:07:13 [INFO] --- FIN de la prueba: test_add_product_to_cart ---
+
+2026-11-19 09:07:13 [INFO] --- INICIO de la prueba: test_inventory_page_title ---
+2026-11-19 09:07:15 [INFO] Navegador abierto y dirigido a https://www.saucedemo.com
+2026-11-19 09:07:15 [INFO] Prueba 'test_inventory_page_title' finalizada con ÉXITO.
+2026-11-19 09:07:17 [INFO] --- FIN de la prueba: test_inventory_page_title ---
+
+2026-11-19 09:07:17 [INFO] --- INICIO de la prueba: test_login_parametrizado[datos0] ---
+2026-11-19 09:07:20 [INFO] Navegador abierto y dirigido a https://www.saucedemo.com
+2026-11-19 09:07:21 [INFO] Prueba 'test_login_parametrizado[datos0]' finalizada con ÉXITO.
+2026-11-19 09:07:23 [INFO] --- FIN de la prueba: test_login_parametrizado[datos0] ---
+
+2026-11-19 09:07:23 [INFO] --- INICIO de la prueba: test_login_parametrizado[datos1] ---
+2026-11-19 09:07:25 [INFO] Navegador abierto y dirigido a https://www.saucedemo.com
+2026-11-19 09:07:25 [INFO] Prueba 'test_login_parametrizado[datos1]' finalizada con ÉXITO.
+2026-11-19 09:07:28 [INFO] --- FIN de la prueba: test_login_parametrizado[datos1] ---
+
+2026-11-19 09:07:28 [INFO] --- INICIO de la prueba: test_login_parametrizado[datos2] ---
+2026-11-19 09:07:30 [INFO] Navegador abierto y dirigido a https://www.saucedemo.com
+2026-11-19 09:07:30 [INFO] Prueba 'test_login_parametrizado[datos2]' finalizada con ÉXITO.
+2026-11-19 09:07:32 [INFO] --- FIN de la prueba: test_login_parametrizado[datos2] ---
+
